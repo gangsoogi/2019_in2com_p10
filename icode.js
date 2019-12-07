@@ -42,5 +42,5 @@ function data {
       }
     }
   }
-  console.log('dongInfo');
+  text(1,1,'dongInfo');
 }
