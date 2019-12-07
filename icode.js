@@ -3,6 +3,10 @@ let startNumArray = new Array();
 let endNumArray = new Array();
 let remainder, thousands, under;
 
+function praw() {
+ellipse(100,100,100,100);
+}
+
 
 function preload() {
   // Get the most recent earthquake in the database
